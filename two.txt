@@ -1,4 +1,6 @@
 one
+lorem ipsum thing that this other WORKINGONLY
 two
+STAGED
 three
 
